@@ -25,3 +25,4 @@ jobs:
           commit_message: Update GitHub Snake SVG
           branch: main
           file_pattern: dist/**
+          github_token: ${{ secrets.GITHUB_TOKEN }}

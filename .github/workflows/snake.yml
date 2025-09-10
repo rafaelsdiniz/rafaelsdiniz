@@ -2,18 +2,16 @@ name: GitHub Snake
 
 on:
   schedule:
-    - cron: '0 0 * * *' # roda todo dia à meia-noite UTC
-  workflow_dispatch: # permite rodar manualmente
+    - cron: '0 0 * * *'
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-      # Faz checkout do repositório
       - uses: actions/checkout@v3
 
-      # Gera a cobrinha
       - uses: Platane/snk@v3
         with:
           github_user_name: rafaelsdiniz
@@ -21,13 +19,9 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      # Commit e push automáticos usando token
       - name: Commit and push generated SVGs
-        run: |
-          git config --global user.name "GitHub Actions"
-          git config --global user.email "actions@github.com"
-          git add dist/
-          git diff-index --quiet HEAD || git commit -m "Update GitHub Snake SVG"
-          git push
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: Update GitHub Snake SVG
+          branch: main
+          file_pattern: dist/**

@@ -21,11 +21,13 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      # Configura git para commit automático
+      # Commit e push automáticos usando token
       - name: Commit and push generated SVGs
         run: |
           git config --global user.name "GitHub Actions"
           git config --global user.email "actions@github.com"
           git add dist/
-          git commit -m "Update GitHub Snake SVG" || echo "No changes to commit"
+          git diff-index --quiet HEAD || git commit -m "Update GitHub Snake SVG"
           git push
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

@@ -10,8 +10,12 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      # Faz checkout do repositório com credenciais do Actions
       - uses: actions/checkout@v3
+        with:
+          persist-credentials: true
 
+      # Gera a cobrinha
       - uses: Platane/snk@v3
         with:
           github_user_name: rafaelsdiniz
@@ -19,10 +23,10 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
+      # Commit e push automáticos
       - name: Commit and push generated SVGs
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: Update GitHub Snake SVG
           branch: main
           file_pattern: dist/**
-          github_token: ${{ secrets.GITHUB_TOKEN }}

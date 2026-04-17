@@ -1,17 +1,29 @@
 # Hello, I'm Rafael 👋
 
-🎓 Information Systems Student at Unitins  
-💻 Learning Java and Angular  
-🌱 Exploring back-end and front-end projects  
-🚀 Passionate about clean and functional solutions
+🎓 Information Systems student at Unitins  
+💻 Fullstack developer focused on building real-world applications  
+🚀 Experience with web systems, APIs and production-ready projects  
 
 ---
 
-## Technologies & Tools
+## 🛠️ Technologies & Tools
 
-- **Languages:** Java, TypeScript, HTML, CSS  
-- **Frameworks / Libraries:** Angular, Quarkus (learning)  
-- **Databases:** MySQL (basic)  
+- **Languages:** Java, C#, TypeScript, JavaScript  
+- **Frameworks:** Quarkus, .NET, Angular, React, Next.js  
+- **Databases:** MySQL, PostgreSQL, SQL Server  
 - **Tools:** Git, GitHub, VS Code, IntelliJ IDEA  
 
+---
 
+## 🚀 Projects
+
+- 🔗 https://dinizcontabilidade.com  
+- 🔗 https://moreiradelmiroadvocacia.com.br  
+- 🔗 https://absolutoresidence.com.br  
+
+---
+
+## 📫 Contact
+
+- 📧 rafaeldiniz.rsd@gmail.com  
+- 💼 github.com/rafaelsdiniz

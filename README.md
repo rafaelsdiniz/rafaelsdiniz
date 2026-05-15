@@ -1,47 +1,51 @@
-# Hello, I'm Rafael 👋
+# Rafael Diniz
 
-🎓 Information Systems student at Unitins  
-💻 Fullstack developer focused on building real-world applications  
-🚀 Experience with web systems, APIs and production-ready projects  
-📍 Palmas - TO, Brazil  
-💼 Open to internship opportunities in software development  
+**Fullstack Developer** · Information Systems @ Unitins · Palmas — TO 🇧🇷  
+Open to internship opportunities in software development
 
 ---
 
-## 🛠️ Technologies
+## 🛠️ Stack
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+### Backend
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
 ![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=for-the-badge&logo=quarkus&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 
+### Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+### Databases
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 
 ---
 
-## 🚀 Projects
+## 🚀 Projetos em Produção
 
-- 🔗 https://dinizcontabilidade.com  
-- 🔗 https://moreiradelmiroadvocacia.com.br  
-- 🔗 https://absolutoresidence.com.br  
+| Projeto | Status |
+|---------|--------|
+| [dinizcontabilidade.com](https://dinizcontabilidade.com) | 🟢 live |
+| [moreiradelmiroadvocacia.com.br](https://moreiradelmiroadvocacia.com.br) | 🟢 live |
+| [absolutoresidence.com.br](https://absolutoresidence.com.br) | 🟢 live |
 
 ---
 
 ## 📊 GitHub Stats
 
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelsdiniz&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsdiniz&layout=compact&theme=radical)
+![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelsdiniz&show_icons=true&theme=radical&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsdiniz&layout=compact&theme=radical&hide_border=true)
 
 ---
 
-## 📫 Contact
+## 📫 Contato
 
-- 📧 rafaeldiniz.rsd@gmail.com  
-- 💼 https://github.com/rafaelsdiniz
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaeldiniz.rsd@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafaelsdiniz)
+
+</div>

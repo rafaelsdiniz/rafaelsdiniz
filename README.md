@@ -32,16 +32,18 @@ Open to internship opportunities in software development
 |---------|--------|
 | [dinizcontabilidade.com](https://dinizcontabilidade.com) | 🟢 live |
 | [moreiradelmiroadvocacia.com.br](https://moreiradelmiroadvocacia.com.br) | 🟢 live |
-| [absolutoresidence.com.br](https://absolutoresidence.com.br) | 🟢 live |
+| [plenusgestaofinanceira.com.br](https://plenusgestaofinanceira.cpm.br) | 🟢 live |
 
 ---
 
 ## 📊 GitHub Stats
 
-![Rafael's GitHub stats](https://github-readme-stats.vercel.app/api?username=rafaelsdiniz&show_icons=true&theme=radical&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsdiniz&layout=compact&theme=radical&hide_border=true)
+<a href="https://github.com/rafaelsdiniz">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rafaelsdiniz&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafaelsdiniz&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
+</a>
 
----
+![GitHub Streak](https://streak-stats.demolab.com?user=rafaelsdiniz&theme=radical&hide_border=true)
 
 ## 📫 Contato
 

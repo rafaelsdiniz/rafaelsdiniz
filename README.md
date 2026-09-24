@@ -49,10 +49,11 @@ Institutional website developed and deployed with a responsive interface, custom
 
 | Project | Status |
 |---|:---:|
+| [Moreira Delmiro Advocacia](https://moreiradelmiroadvocacia.com.br/) | 🟢 Online |
+| [Diniz Contabilidade](https://dinizcontabilidade.com/) | 🟢 Online |
 | [Pactus Contabilidade](https://www.pactuscontabilidade.com.br/) | 🟢 Online |
 | [Plenus Gestão Financeira](https://www.plenusgestaofinanceira.com.br/) | 🟢 Online |
-| [Diniz Contabilidade](https://dinizcontabilidade.com/) | 🟢 Online |
-| [Moreira Delmiro Advocacia](https://moreiradelmiroadvocacia.com.br/) | 🟢 Online |
+| [Garden Hotel Cristalândia](https://gardenhotelcristalandia.com.br/) | 🟢 Online |
 
 ## Currently learning
 

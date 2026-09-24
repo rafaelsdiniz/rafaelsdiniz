@@ -6,16 +6,43 @@
 
 Information Systems @ UNITINS · Palmas, Tocantins 🇧🇷
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:rafaeldiniz.rsd@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rafaelsdiniz)
+Building web systems and digital experiences for real-world needs.
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-rafaeldiniz.dev-2563EB?style=for-the-badge)](https://rafaeldiniz.dev)
+[![Email](https://img.shields.io/badge/Email-Contact_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaeldiniz.rsd@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-rafaelsdiniz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafaelsdiniz)
 
 </div>
 
+---
+
 ## About me
 
-Software Development Intern working on **CIGMA**, an environmental data and geographic intelligence platform for Tocantins.
+I'm an Information Systems student and Software Development Intern working on [**CIGMA**](https://cigma.to.gov.br/), a platform for environmental data and geographic intelligence in Tocantins.
 
-Currently focused on backend development with **C#, .NET, ASP.NET Core, GraphQL, PostgreSQL and microservices**. I also develop and deploy full-stack web projects using **React, Next.js and TypeScript**.
+My main focus is backend development with **C#, .NET, ASP.NET Core, GraphQL and PostgreSQL**. I also develop and deploy full-stack projects using **React, Next.js and TypeScript**.
+
+Outside my internship, I work on projects for businesses and organizations, including institutional websites and management systems.
+
+## Featured project
+
+### 🥋 [Palmas Judô Clube — Management System](https://www.palmasjudoclube.com.br/)
+
+A web system created to support the club's daily operations. Alongside its public presence, the platform brings together **student records, attendance tracking and monthly payment management**.
+
+[**Explore the project →**](https://www.palmasjudoclube.com.br/)
+
+## Projects in production
+
+| Project | Description |
+|---|---|
+| [CIGMA](https://cigma.to.gov.br/) | Environmental data and geographic intelligence platform · internship project |
+| [Moreira Delmiro Advocacia](https://moreiradelmiroadvocacia.com.br/) | Institutional website |
+| [Diniz Contabilidade](https://dinizcontabilidade.com/) | Institutional website |
+| [Pactus Contabilidade](https://www.pactuscontabilidade.com.br/) | Institutional website |
+| [Palmas Judô Clube](https://www.palmasjudoclube.com.br/) | Student, attendance and payment management system |
+| [Plenus Gestão Financeira](https://www.plenusgestaofinanceira.com.br/) | Institutional website |
+| [Garden Hotel Cristalândia](https://gardenhotelcristalandia.com.br/) | Hotel website |
 
 ## Tech stack
 
@@ -39,23 +66,6 @@ Currently focused on backend development with **C#, .NET, ASP.NET Core, GraphQL,
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## Featured project
-
-### [Pactus Contabilidade](https://www.pactuscontabilidade.com.br/)
-
-Institutional website developed and deployed with a responsive interface, custom domain configuration and production infrastructure.
-
-## Projects in production
-
-| Project | Status |
-|---|:---:|
-| [Moreira Delmiro Advocacia](https://moreiradelmiroadvocacia.com.br/) | 🟢 Online |
-| [Diniz Contabilidade](https://dinizcontabilidade.com/) | 🟢 Online |
-| [Pactus Contabilidade](https://www.pactuscontabilidade.com.br/) | 🟢 Online |
-| [Palmas Judo Clube](https://www.palmasjudoclube.com.br/) | 🟢 Online |
-| [Plenus Gestão Financeira](https://www.plenusgestaofinanceira.com.br/) | 🟢 Online |
-| [Garden Hotel Cristalândia](https://gardenhotelcristalandia.com.br/) | 🟢 Online |
-
 ## Currently learning
 
 - ASP.NET Core and Entity Framework Core
@@ -63,3 +73,11 @@ Institutional website developed and deployed with a responsive interface, custom
 - Automated testing
 - Docker and software architecture
 - Cloud computing and technical English
+
+---
+
+<div align="center">
+
+**Have a project in mind?** [Let's talk](mailto:rafaeldiniz.rsd@gmail.com).
+
+</div>

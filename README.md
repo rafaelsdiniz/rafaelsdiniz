@@ -2,82 +2,164 @@
 
 # Rafael Silva Diniz
 
-### Backend Developer · C# & .NET
+**Backend Developer · C# & .NET**
 
-Information Systems @ UNITINS · Palmas, Tocantins 🇧🇷
+Information Systems @ UNITINS · Software Development Intern @ CIGMA · Palmas, Tocantins 🇧🇷
 
-Building web systems and digital experiences for real-world needs.
+<sub>Building web systems and digital experiences for real businesses, from the database to the last pixel.</sub>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-rafaeldiniz.dev-2563EB?style=for-the-badge)](https://rafaeldiniz.dev)
-[![Email](https://img.shields.io/badge/Email-Contact_me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaeldiniz.rsd@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-rafaelsdiniz-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafaelsdiniz)
+<br>
+
+[![Portfolio](https://img.shields.io/badge/rafaeldiniz.dev-111111?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.rafaeldiniz.dev)
+[![Email](https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rafaeldiniz.rsd@gmail.com)
+[![GitHub](https://img.shields.io/badge/rafaelsdiniz-111111?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rafaelsdiniz)
 
 </div>
 
----
+<br>
 
-## About me
+## About
 
-I'm an Information Systems student and Software Development Intern working on [**CIGMA**](https://cigma.to.gov.br/), a platform for environmental data and geographic intelligence in Tocantins.
+I'm an Information Systems student and Software Development Intern on [**CIGMA**](https://cigma.to.gov.br/), a platform for environmental data and geographic intelligence for the state of Tocantins.
 
-My main focus is backend development with **C#, .NET, ASP.NET Core, GraphQL and PostgreSQL**. I also develop and deploy full-stack projects using **React, Next.js and TypeScript**.
+My core is the backend: **C#, .NET, ASP.NET Core, GraphQL and PostgreSQL**. I also design, build and ship full-stack products with **React, Next.js and TypeScript**, and have worked with **Java (Quarkus)** and **Angular**.
 
-Outside my internship, I work on projects for businesses and organizations, including institutional websites and management systems.
+Outside the internship I work independently through [**rafaeldiniz.dev**](https://www.rafaeldiniz.dev), delivering websites and management systems for clinics, accounting firms, law firms, hotels and sports clubs. Every project below is live and in use.
 
-## Featured project
+<br>
 
-### 🥋 [Palmas Judô Clube — Management System](https://www.palmasjudoclube.com.br/)
+## Featured · Palmas Judô Clube
 
-A web system created to support the club's daily operations. Alongside its public presence, the platform brings together **student records, attendance tracking and monthly payment management**.
+<table>
+<tr>
+<td width="58%">
+<a href="https://www.palmasjudoclube.com.br/"><img src="assets/projects/palmas-judo-clube.jpg" alt="Palmas Judô Clube website" width="100%"></a>
+</td>
+<td width="42%" valign="top">
 
-[**Explore the project →**](https://www.palmasjudoclube.com.br/)
+**Management system + public website**
+
+The club's daily operations in one place: **student records, class attendance and monthly payments**, alongside the public site where new students book a trial class.
+
+`Sports club` · `2025`
+
+[**Visit the project →**](https://www.palmasjudoclube.com.br/)
+
+</td>
+</tr>
+</table>
+
+<br>
 
 ## Projects in production
 
-| Project | Description |
-|---|---|
-| [CIGMA](https://cigma.to.gov.br/) | Environmental data and geographic intelligence platform · internship project |
-| [Moreira Delmiro Advocacia](https://moreiradelmiroadvocacia.com.br/) | Institutional website |
-| [Diniz Contabilidade](https://dinizcontabilidade.com/) | Institutional website |
-| [Pactus Contabilidade](https://www.pactuscontabilidade.com.br/) | Institutional website |
-| [Palmas Judô Clube](https://www.palmasjudoclube.com.br/) | Student, attendance and payment management system |
-| [Plenus Gestão Financeira](https://www.plenusgestaofinanceira.com.br/) | Institutional website |
-| [Garden Hotel Cristalândia](https://gardenhotelcristalandia.com.br/) | Hotel website |
+<table>
+<tr>
+<td width="50%" valign="top">
+<a href="https://www.cliniz.com.br/"><img src="assets/projects/cliniz.jpg" alt="Cliniz Odontologia" width="100%"></a>
+<br><b><a href="https://www.cliniz.com.br/">Cliniz Odontologia</a></b>
+<br><sub>Website + online booking · Dental clinic · 2026</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://www.wsccontabilidade.com.br/"><img src="assets/projects/wsc-contabilidade.jpg" alt="WSC Contabilidade" width="100%"></a>
+<br><b><a href="https://www.wsccontabilidade.com.br/">WSC Contabilidade</a></b>
+<br><sub>Website + content dashboard · Accounting · 2026</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://www.pousadaninaflor.com.br/"><img src="assets/projects/nina-flor-pousada.jpg" alt="Nina-Flor Pousada" width="100%"></a>
+<br><b><a href="https://www.pousadaninaflor.com.br/">Nina-Flor Pousada</a></b>
+<br><sub>Website with booking flow · Hospitality · 2026</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://www.plenusgestaofinanceira.com.br/"><img src="assets/projects/plenus-gestao-financeira.jpg" alt="Plenus Gestão Financeira" width="100%"></a>
+<br><b><a href="https://www.plenusgestaofinanceira.com.br/">Plenus Gestão Financeira</a></b>
+<br><sub>Institutional website · Financial BPO · 2026</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://www.nexuswebsolutions.com.br/"><img src="assets/projects/nexus-web-solutions.jpg" alt="Nexus Web Solutions" width="100%"></a>
+<br><b><a href="https://www.nexuswebsolutions.com.br/">Nexus Web Solutions</a></b>
+<br><sub>Landing page · Marketing agency · 2026</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://www.gardenhotelcristalandia.com.br/"><img src="assets/projects/garden-hotel-cristalandia.jpg" alt="Garden Hotel Cristalândia" width="100%"></a>
+<br><b><a href="https://www.gardenhotelcristalandia.com.br/">Garden Hotel Cristalândia</a></b>
+<br><sub>Hotel website · Hospitality · 2025</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://pactuscontabilidade.com.br/"><img src="assets/projects/pactus-contabilidade.jpg" alt="Pactus Contabilidade" width="100%"></a>
+<br><b><a href="https://pactuscontabilidade.com.br/">Pactus Contabilidade</a></b>
+<br><sub>Institutional website · Accounting · 2025</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://www.dinizcontabilidade.com/"><img src="assets/projects/diniz-contabilidade.jpg" alt="Diniz Contabilidade" width="100%"></a>
+<br><b><a href="https://www.dinizcontabilidade.com/">Diniz Contabilidade</a></b>
+<br><sub>Institutional website · Accounting · 2025</sub>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<a href="https://moreiradelmiroadvocacia.com.br/"><img src="assets/projects/moreira-delmiro-advocacia.jpg" alt="Moreira Delmiro Advocacia" width="100%"></a>
+<br><b><a href="https://moreiradelmiroadvocacia.com.br/">Moreira Delmiro Advocacia</a></b>
+<br><sub>Institutional website · Law firm · 2025</sub>
+</td>
+<td width="50%" valign="top">
+<a href="https://absolutoresidence.com.br/"><img src="assets/projects/absoluto-residence.jpg" alt="Absoluto Residence" width="100%"></a>
+<br><b><a href="https://absolutoresidence.com.br/">Absoluto Residence</a></b>
+<br><sub>Landing page · Real estate · 2024</sub>
+</td>
+</tr>
+</table>
 
-## Tech stack
+<div align="center">
+<sub>See case studies, process and more on <a href="https://www.rafaeldiniz.dev"><b>rafaeldiniz.dev</b></a></sub>
+</div>
 
-**Backend**
+<br>
 
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+## Stack
 
-**Frontend**
+<table>
+<tr>
+<td width="140"><b>Backend</b></td>
+<td><img src="https://skillicons.dev/icons?i=cs,dotnet,graphql,java&perline=8" alt="C#, .NET, GraphQL, Java"></td>
+</tr>
+<tr>
+<td><b>Frontend</b></td>
+<td><img src="https://skillicons.dev/icons?i=ts,react,nextjs,angular,tailwind&perline=8" alt="TypeScript, React, Next.js, Angular, Tailwind CSS"></td>
+</tr>
+<tr>
+<td><b>Data & infra</b></td>
+<td><img src="https://skillicons.dev/icons?i=postgres,docker,git,linux,vercel&perline=8" alt="PostgreSQL, Docker, Git, Linux, Vercel"></td>
+</tr>
+</table>
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
+<br>
 
-**Database & tools**
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-
-## Currently learning
+## Currently going deeper on
 
 - ASP.NET Core and Entity Framework Core
-- SQL and database modeling
+- Database modeling and SQL performance
 - Automated testing
 - Docker and software architecture
 - Cloud computing and technical English
 
----
+<br>
 
 <div align="center">
 
-**Have a project in mind?** [Let's talk](mailto:rafaeldiniz.rsd@gmail.com).
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaelsdiniz/rafaelsdiniz/output/github-snake-dark.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/rafaelsdiniz/rafaelsdiniz/output/github-snake.svg" width="100%">
+</picture>
+
+<br><br>
+
+**Have a project in mind?** [Let's talk →](mailto:rafaeldiniz.rsd@gmail.com)
 
 </div>

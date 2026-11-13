@@ -1,32 +1,33 @@
 name: GitHub Snake
 
+# Gera a cobrinha das contribuições todo dia e publica os SVGs na branch "output" (o README lê de lá).
 on:
   schedule:
     - cron: '0 0 * * *'
   workflow_dispatch:
+  push:
+    branches: [main]
+    paths: ['.github/workflows/snake.yml']
+
+permissions:
+  contents: write
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-
+    timeout-minutes: 10
     steps:
-      # Faz checkout do repositório com credenciais do Actions
-      - uses: actions/checkout@v3
+      - uses: Platane/snk/svg-only@v3
         with:
-          persist-credentials: true
-
-      # Gera a cobrinha
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: rafaelsdiniz
+          github_user_name: ${{ github.repository_owner }}
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
-      # Commit e push automáticos
-      - name: Commit and push generated SVGs
-        uses: stefanzweifel/git-auto-commit-action@v4
+      - uses: crazy-max/ghaction-github-pages@v4
         with:
-          commit_message: Update GitHub Snake SVG
-          branch: main
-          file_pattern: dist/**
+          target_branch: output
+          build_dir: dist
+          keep_history: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

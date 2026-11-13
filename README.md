@@ -30,95 +30,30 @@ Outside the internship I work independently through [**rafaeldiniz.dev**](https:
 
 ## Featured · Palmas Judô Clube
 
-<table>
-<tr>
-<td width="58%">
-<a href="https://www.palmasjudoclube.com.br/"><img src="assets/projects/palmas-judo-clube.jpg" alt="Palmas Judô Clube website" width="100%"></a>
-</td>
-<td width="42%" valign="top">
+A management system built for the club's daily operations: **student records, class attendance and monthly payments**, alongside the public website where new students book a trial class.
 
-**Management system + public website**
-
-The club's daily operations in one place: **student records, class attendance and monthly payments**, alongside the public site where new students book a trial class.
-
-`Sports club` · `2025`
-
-[**Visit the project →**](https://www.palmasjudoclube.com.br/)
-
-</td>
-</tr>
-</table>
+[**Explore the project →**](https://www.palmasjudoclube.com.br/)
 
 <br>
 
 ## Projects in production
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<a href="https://www.cliniz.com.br/"><img src="assets/projects/cliniz.jpg" alt="Cliniz Odontologia" width="100%"></a>
-<br><b><a href="https://www.cliniz.com.br/">Cliniz Odontologia</a></b>
-<br><sub>Website + online booking · Dental clinic · 2026</sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://www.wsccontabilidade.com.br/"><img src="assets/projects/wsc-contabilidade.jpg" alt="WSC Contabilidade" width="100%"></a>
-<br><b><a href="https://www.wsccontabilidade.com.br/">WSC Contabilidade</a></b>
-<br><sub>Website + content dashboard · Accounting · 2026</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://www.pousadaninaflor.com.br/"><img src="assets/projects/nina-flor-pousada.jpg" alt="Nina-Flor Pousada" width="100%"></a>
-<br><b><a href="https://www.pousadaninaflor.com.br/">Nina-Flor Pousada</a></b>
-<br><sub>Website with booking flow · Hospitality · 2026</sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://www.plenusgestaofinanceira.com.br/"><img src="assets/projects/plenus-gestao-financeira.jpg" alt="Plenus Gestão Financeira" width="100%"></a>
-<br><b><a href="https://www.plenusgestaofinanceira.com.br/">Plenus Gestão Financeira</a></b>
-<br><sub>Institutional website · Financial BPO · 2026</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://www.nexuswebsolutions.com.br/"><img src="assets/projects/nexus-web-solutions.jpg" alt="Nexus Web Solutions" width="100%"></a>
-<br><b><a href="https://www.nexuswebsolutions.com.br/">Nexus Web Solutions</a></b>
-<br><sub>Landing page · Marketing agency · 2026</sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://www.gardenhotelcristalandia.com.br/"><img src="assets/projects/garden-hotel-cristalandia.jpg" alt="Garden Hotel Cristalândia" width="100%"></a>
-<br><b><a href="https://www.gardenhotelcristalandia.com.br/">Garden Hotel Cristalândia</a></b>
-<br><sub>Hotel website · Hospitality · 2025</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://pactuscontabilidade.com.br/"><img src="assets/projects/pactus-contabilidade.jpg" alt="Pactus Contabilidade" width="100%"></a>
-<br><b><a href="https://pactuscontabilidade.com.br/">Pactus Contabilidade</a></b>
-<br><sub>Institutional website · Accounting · 2025</sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://www.dinizcontabilidade.com/"><img src="assets/projects/diniz-contabilidade.jpg" alt="Diniz Contabilidade" width="100%"></a>
-<br><b><a href="https://www.dinizcontabilidade.com/">Diniz Contabilidade</a></b>
-<br><sub>Institutional website · Accounting · 2025</sub>
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-<a href="https://moreiradelmiroadvocacia.com.br/"><img src="assets/projects/moreira-delmiro-advocacia.jpg" alt="Moreira Delmiro Advocacia" width="100%"></a>
-<br><b><a href="https://moreiradelmiroadvocacia.com.br/">Moreira Delmiro Advocacia</a></b>
-<br><sub>Institutional website · Law firm · 2025</sub>
-</td>
-<td width="50%" valign="top">
-<a href="https://absolutoresidence.com.br/"><img src="assets/projects/absoluto-residence.jpg" alt="Absoluto Residence" width="100%"></a>
-<br><b><a href="https://absolutoresidence.com.br/">Absoluto Residence</a></b>
-<br><sub>Landing page · Real estate · 2024</sub>
-</td>
-</tr>
-</table>
+| Project | What it is | Sector | Year |
+|---|---|---|---|
+| [**CIGMA**](https://cigma.to.gov.br/) | Environmental data and geographic intelligence platform · internship | Government | Now |
+| [**Palmas Judô Clube**](https://www.palmasjudoclube.com.br/) | Management system + website | Sports club | 2025 |
+| [**Cliniz Odontologia**](https://www.cliniz.com.br/) | Website + online booking | Dental clinic | 2026 |
+| [**WSC Contabilidade**](https://www.wsccontabilidade.com.br/) | Website + content dashboard | Accounting | 2026 |
+| [**Nina-Flor Pousada**](https://www.pousadaninaflor.com.br/) | Website with booking flow | Hospitality | 2026 |
+| [**Plenus Gestão Financeira**](https://www.plenusgestaofinanceira.com.br/) | Institutional website | Financial BPO | 2026 |
+| [**Nexus Web Solutions**](https://www.nexuswebsolutions.com.br/) | Landing page | Marketing agency | 2026 |
+| [**Garden Hotel Cristalândia**](https://www.gardenhotelcristalandia.com.br/) | Hotel website | Hospitality | 2025 |
+| [**Pactus Contabilidade**](https://pactuscontabilidade.com.br/) | Institutional website | Accounting | 2025 |
+| [**Diniz Contabilidade**](https://www.dinizcontabilidade.com/) | Institutional website | Accounting | 2025 |
+| [**Moreira Delmiro Advocacia**](https://moreiradelmiroadvocacia.com.br/) | Institutional website | Law firm | 2025 |
+| [**Absoluto Residence**](https://absolutoresidence.com.br/) | Landing page | Real estate | 2024 |
 
-<div align="center">
-<sub>See case studies, process and more on <a href="https://www.rafaeldiniz.dev"><b>rafaeldiniz.dev</b></a></sub>
-</div>
+<sub>Case studies and process on <a href="https://www.rafaeldiniz.dev"><b>rafaeldiniz.dev</b></a></sub>
 
 <br>
 
@@ -154,8 +89,8 @@ The club's daily operations in one place: **student records, class attendance an
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaelsdiniz/rafaelsdiniz/output/github-snake-dark.svg">
-  <img alt="Contribution snake" src="https://raw.githubusercontent.com/rafaelsdiniz/rafaelsdiniz/output/github-snake.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rafaelsdiniz/rafaelsdiniz/output/github-snake-dark.svg?v=2">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/rafaelsdiniz/rafaelsdiniz/output/github-snake.svg?v=2" width="100%">
 </picture>
 
 <br><br>

@@ -4,7 +4,7 @@
 
 **Backend Developer · C# & .NET**
 
-Information Systems @ UNITINS · Software Development Intern @ CIGMA · Palmas, Tocantins 🇧🇷
+Information Systems @ UNITINS · Developer @ CIGMA · Palmas, Tocantins 🇧🇷
 
 🏆 **1st place · 7th FIETO Innovation Award** (University category, 2026) with [**Prazo Certo**](https://github.com/rafaelsdiniz/PrazoCerto-Quarkus)
 
@@ -24,11 +24,11 @@ Information Systems @ UNITINS · Software Development Intern @ CIGMA · Palmas, 
 
 ## About
 
-I'm an Information Systems student and Software Development Intern on [**CIGMA**](https://cigma.to.gov.br/), a platform for environmental data and geographic intelligence for the state of Tocantins.
+I'm an Information Systems student and a Developer at [**CIGMA**](https://cigma.to.gov.br/), a platform for environmental data and geographic intelligence for the state of Tocantins.
 
 My core is the backend: **C#, .NET, ASP.NET Core, GraphQL and PostgreSQL**. I also design, build and ship full-stack products with **React, Next.js and TypeScript**, and have worked with **Java (Quarkus)** and **Angular**.
 
-Outside the internship I work independently through [**rafaeldiniz.dev**](https://www.rafaeldiniz.dev), delivering websites and management systems for accounting firms, law firms, hotels, real estate and sports clubs. Every project below is live and in use.
+Outside CIGMA I work independently through [**rafaeldiniz.dev**](https://www.rafaeldiniz.dev), delivering websites and management systems for accounting firms, law firms, hotels, real estate and sports clubs. Every project below is live and in use.
 
 <br>
 
@@ -67,7 +67,7 @@ A management system built for the club's daily operations: **student records, cl
 | Project | What it is | Sector | Year |
 |---|---|---|---|
 | [**Prazo Certo**](https://github.com/rafaelsdiniz/PrazoCerto-Quarkus) | Tax compliance portal for accounting firms · 🏆 FIETO Innovation Award | Accounting | 2026 |
-| [**CIGMA**](https://cigma.to.gov.br/) | Environmental data and geographic intelligence platform · internship | Government | Now |
+| [**CIGMA**](https://cigma.to.gov.br/) | Environmental data and geographic intelligence platform | Government | Now |
 | [**Palmas Judô Clube**](https://www.palmasjudoclube.com.br/) | Management system + website | Sports club | 2025 |
 | [**WSC Contabilidade**](https://www.wsccontabilidade.com.br/) | Website + content dashboard | Accounting | 2026 |
 | [**Nina-Flor Pousada**](https://www.pousadaninaflor.com.br/) | Website with booking flow | Hospitality | 2026 |

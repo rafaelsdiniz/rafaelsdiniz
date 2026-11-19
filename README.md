@@ -6,6 +6,8 @@
 
 Information Systems @ UNITINS · Software Development Intern @ CIGMA · Palmas, Tocantins 🇧🇷
 
+🏆 **1st place · 7th FIETO Innovation Award** (University category, 2026) with [**Prazo Certo**](https://github.com/rafaelsdiniz/PrazoCerto-Quarkus)
+
 <sub>Building web systems and digital experiences for real businesses, from the database to the last pixel.</sub>
 
 <br>
@@ -30,7 +32,32 @@ Outside the internship I work independently through [**rafaeldiniz.dev**](https:
 
 <br>
 
-## Featured · Palmas Judô Clube
+## 🏆 Featured · Prazo Certo
+
+**1st place, University category, at the 7th FIETO Innovation Award** (Federation of Industries of the State of Tocantins, November 2026), among 86 projects.
+
+Smart tax compliance for businesses in Tocantins. Prazo Certo brings documents, deadlines and tax obligations between an accounting firm and its clients into one portal, pulls notices from the state tax authority (SEFAZ-TO) automatically, and uses AI to read tax slips and answer questions about deadlines.
+
+Built in the Integrative Project II course at UNITINS, advised by Prof. Stephanny Moraes.
+
+<table>
+<tr>
+<td width="50%"><img src="https://raw.githubusercontent.com/rafaelsdiniz/PrazoCerto-Quarkus/main/docs/img/premio-fieto.jpeg" alt="Receiving the 1st place trophy at the 7th FIETO Innovation Award"></td>
+<td width="50%"><img src="https://raw.githubusercontent.com/rafaelsdiniz/PrazoCerto-Angular/main/docs/prints/painel.png" alt="Prazo Certo dashboard"></td>
+</tr>
+</table>
+
+![Quarkus](https://img.shields.io/badge/Quarkus-4695EB?style=flat-square&logo=quarkus&logoColor=white)
+![Java 21](https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![Angular](https://img.shields.io/badge/Angular_20-DD0031?style=flat-square&logo=angular&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![Google Cloud Run](https://img.shields.io/badge/Cloud_Run-4285F4?style=flat-square&logo=googlecloud&logoColor=white)
+
+[**API (Quarkus) →**](https://github.com/rafaelsdiniz/PrazoCerto-Quarkus) · [**Front-end (Angular) →**](https://github.com/rafaelsdiniz/PrazoCerto-Angular) · [**Award news (UNITINS) →**](https://www.unitins.br/nPortal/portal/noticias/detalhes/8509-2026-11-19-academico-da-unitins-conquista-1-lugar-na-categoria-universidade-do-7-premio-fieto-de-inovacao)
+
+<br>
+
+## Also featured · Palmas Judô Clube
 
 A management system built for the club's daily operations: **student records, class attendance and monthly payments**, alongside the public website where new students book a trial class.
 
@@ -42,6 +69,7 @@ A management system built for the club's daily operations: **student records, cl
 
 | Project | What it is | Sector | Year |
 |---|---|---|---|
+| [**Prazo Certo**](https://github.com/rafaelsdiniz/PrazoCerto-Quarkus) | Tax compliance portal for accounting firms · 🏆 FIETO Innovation Award | Accounting | 2026 |
 | [**CIGMA**](https://cigma.to.gov.br/) | Environmental data and geographic intelligence platform · internship | Government | Now |
 | [**Palmas Judô Clube**](https://www.palmasjudoclube.com.br/) | Management system + website | Sports club | 2025 |
 | [**WSC Contabilidade**](https://www.wsccontabilidade.com.br/) | Website + content dashboard | Accounting | 2026 |
